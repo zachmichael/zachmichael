@@ -22,10 +22,18 @@ I also keep forks of other people’s projects for learning, experimentation, an
 
 ## Browse by topic
 
-- [Workday](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday%20fork%3Atrue&type=repositories)
-- [Workday Extend](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday-extend%20fork%3Atrue&type=repositories)
-- [AI agents](https://github.com/search?q=user%3Azachmichael%20topic%3Aai-agents%20fork%3Atrue&type=repositories)
-- [StepMania](https://github.com/search?q=user%3Azachmichael%20topic%3Astepmania%20fork%3Atrue&type=repositories)
-- [Reference forks](https://github.com/search?q=user%3Azachmichael%20topic%3Areference-fork%20fork%3Atrue&type=repositories)
+These searches include my forks.
+
+| Topic | Topic | Topic |
+|---|---|---|
+| [3d-modeling](https://github.com/search?q=user%3Azachmichael%20topic%3A3d-modeling%20fork%3Atrue&type=repositories) | [3d-printing](https://github.com/search?q=user%3Azachmichael%20topic%3A3d-printing%20fork%3Atrue&type=repositories) | [ai-agents](https://github.com/search?q=user%3Azachmichael%20topic%3Aai-agents%20fork%3Atrue&type=repositories) |
+| [automation](https://github.com/search?q=user%3Azachmichael%20topic%3Aautomation%20fork%3Atrue&type=repositories) | [canvas-kit](https://github.com/search?q=user%3Azachmichael%20topic%3Acanvas-kit%20fork%3Atrue&type=repositories) | [chart-generation](https://github.com/search?q=user%3Azachmichael%20topic%3Achart-generation%20fork%3Atrue&type=repositories) |
+| [demo](https://github.com/search?q=user%3Azachmichael%20topic%3Ademo%20fork%3Atrue&type=repositories) | [desktop-utility](https://github.com/search?q=user%3Azachmichael%20topic%3Adesktop-utility%20fork%3Atrue&type=repositories) | [developer-tools](https://github.com/search?q=user%3Azachmichael%20topic%3Adeveloper-tools%20fork%3Atrue&type=repositories) |
+| [diagram-generator](https://github.com/search?q=user%3Azachmichael%20topic%3Adiagram-generator%20fork%3Atrue&type=repositories) | [diagramming](https://github.com/search?q=user%3Azachmichael%20topic%3Adiagramming%20fork%3Atrue&type=repositories) | [emulator-frontend](https://github.com/search?q=user%3Azachmichael%20topic%3Aemulator-frontend%20fork%3Atrue&type=repositories) |
+| [forked](https://github.com/search?q=user%3Azachmichael%20topic%3Aforked%20fork%3Atrue&type=repositories) | [home-automation](https://github.com/search?q=user%3Azachmichael%20topic%3Ahome-automation%20fork%3Atrue&type=repositories) | [local-llm](https://github.com/search?q=user%3Azachmichael%20topic%3Alocal-llm%20fork%3Atrue&type=repositories) |
+| [mcp](https://github.com/search?q=user%3Azachmichael%20topic%3Amcp%20fork%3Atrue&type=repositories) | [programming-humor](https://github.com/search?q=user%3Azachmichael%20topic%3Aprogramming-humor%20fork%3Atrue&type=repositories) | [react](https://github.com/search?q=user%3Azachmichael%20topic%3Areact%20fork%3Atrue&type=repositories) |
+| [reference-fork](https://github.com/search?q=user%3Azachmichael%20topic%3Areference-fork%20fork%3Atrue&type=repositories) | [stepmania](https://github.com/search?q=user%3Azachmichael%20topic%3Astepmania%20fork%3Atrue&type=repositories) | [typescript](https://github.com/search?q=user%3Azachmichael%20topic%3Atypescript%20fork%3Atrue&type=repositories) |
+| [workday](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday%20fork%3Atrue&type=repositories) | [workday-extend](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday-extend%20fork%3Atrue&type=repositories) | [workdaystudio](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkdaystudio%20fork%3Atrue&type=repositories) |
+| [wql](https://github.com/search?q=user%3Azachmichael%20topic%3Awql%20fork%3Atrue&type=repositories) |  |  |
 
 [Browse all repositories](https://github.com/zachmichael?tab=repositories).
