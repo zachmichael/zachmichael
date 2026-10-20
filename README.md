@@ -20,4 +20,12 @@ I also keep forks of other people’s projects for learning, experimentation, an
 - **Maker and home tech:** [BambuStudio](https://github.com/zachmichael/BambuStudio), [Spoolman](https://github.com/zachmichael/Spoolman), [gridfinity-layout-tool](https://github.com/zachmichael/gridfinity-layout-tool)
 - **Rhythm games:** [ArrowVortex](https://github.com/zachmichael/ArrowVortex), [OutFox-Lua-SDK](https://github.com/zachmichael/OutFox-Lua-SDK)
 
+## Browse by topic
+
+- [Workday](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday%20fork%3Atrue&type=repositories)
+- [Workday Extend](https://github.com/search?q=user%3Azachmichael%20topic%3Aworkday-extend%20fork%3Atrue&type=repositories)
+- [AI agents](https://github.com/search?q=user%3Azachmichael%20topic%3Aai-agents%20fork%3Atrue&type=repositories)
+- [StepMania](https://github.com/search?q=user%3Azachmichael%20topic%3Astepmania%20fork%3Atrue&type=repositories)
+- [Reference forks](https://github.com/search?q=user%3Azachmichael%20topic%3Areference-fork%20fork%3Atrue&type=repositories)
+
 [Browse all repositories](https://github.com/zachmichael?tab=repositories).
